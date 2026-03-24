@@ -1,0 +1,16 @@
+{
+  "name": "bot_apostas",
+  "version": "1.0.0",
+  "description": "by BrocadoMods",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "node-fetch": "^2.6.1",
+    "qrcode": "^1.5.3"
+  }
+}
