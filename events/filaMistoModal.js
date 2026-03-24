@@ -33,7 +33,7 @@ module.exports = {
     const canalId = interaction.fields.getTextInputValue('canal_id');
     const modo = interaction.fields.getTextInputValue('modo_fila');
     const formato = interaction.fields.getTextInputValue('formato_fila').trim();
-    const valores = ['100,90', '50,90', '20,90', '10,90', '5,90', '2,90', '1,90'];
+    const valores = ['100,15', '50,15', '20,15', '10,15', '5,15', '2,15', '1,15', '0,65'];
 
     // Validação do formato
     if (!['2x2', '3x3', '4x4'].includes(formato)) {
