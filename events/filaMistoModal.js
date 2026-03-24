@@ -10,7 +10,14 @@ function getFilasDB() {
   if (!fs.existsSync(filasPath)) {
     fs.writeFileSync(filasPath, JSON.stringify({}));
   }
-  return JSON.parse(fs.readFileSync(filasPath));
+
+  try {
+    const raw = fs.readFileSync(filasPath, 'utf-8').trim();
+    return raw ? JSON.parse(raw) : {};
+  } catch (e) {
+    console.log('⚠️ JSON corrompido em filasMisto.json, resetando...');
+    return {};
+  }
 }
 
 function saveFilasDB(db) {
@@ -19,9 +26,21 @@ function saveFilasDB(db) {
 
 function saveFilaDados(msgId, dados) {
   let db = {};
-  if (fs.existsSync(filasDadosPath)) db = JSON.parse(fs.readFileSync(filasDadosPath));
+
+  try {
+    if (fs.existsSync(filasDadosPath)) {
+      const raw = fs.readFileSync(filasDadosPath, 'utf-8').trim();
+      if (raw) db = JSON.parse(raw);
+    }
+  } catch (err) {
+    console.log('⚠️ JSON corrompido em filasDados.json, resetando...');
+    db = {};
+  }
+
   db[msgId] = dados;
+
   fs.writeFileSync(filasDadosPath, JSON.stringify(db, null, 2));
+
   console.log('[DEBUG] Salvando dados da fila misto:', msgId, dados);
 }
 
@@ -98,18 +117,33 @@ module.exports = {
           .setEmoji(emojis._ban_emoji || '❌')
       ];
     }
+
     const row = new ActionRowBuilder().addComponents(buttons);
 
     await interaction.deferReply({ ephemeral: true });
+
     const canal = await interaction.guild.channels.fetch(canalId);
+
     let filasDB = {};
-    if (fs.existsSync(filasPath)) filasDB = JSON.parse(fs.readFileSync(filasPath));
+    try {
+      if (fs.existsSync(filasPath)) {
+        const raw = fs.readFileSync(filasPath, 'utf-8').trim();
+        if (raw) filasDB = JSON.parse(raw);
+      }
+    } catch (e) {
+      console.log('⚠️ JSON corrompido em filasMisto.json durante execução, resetando...');
+      filasDB = {};
+    }
+
     for (const valor of valores) {
       if (!filasDB[valor]) filasDB[valor] = [];
+
       let jogadores = filasDB[valor];
+
       let jogadoresStr = jogadores.length > 0
         ? jogadores.map(j => `<@${j.id}>`).join('\n')
         : 'Nenhum jogador na fila.';
+
       const embed = new EmbedBuilder()
         .setTitle(`${emojis._star_emoji || '⭐'} FILA MISTO 0% DE TAXA`)
         .setThumbnail(interaction.guild.iconURL() || null)
@@ -121,7 +155,9 @@ module.exports = {
           { name: `${emojis._people_emoji || '👥'} JOGADORES`, value: jogadoresStr, inline: false }
         )
         .setFooter({ text: `@${interaction.user.username}`, iconURL: interaction.user.displayAvatarURL() });
+
       const msg = await canal.send({ embeds: [embed], components: [row] });
+
       // Salva os dados da fila na database
       saveFilaDados(msg.id, {
         valor,
@@ -131,7 +167,11 @@ module.exports = {
         status: 'aberta'
       });
     }
+
     fs.writeFileSync(filasPath, JSON.stringify(filasDB, null, 2));
-    await interaction.editReply({ content: `${emojis.confirmed_emoji || '✅'} Filas misto criadas com sucesso no canal <#${canalId}>!` });
+
+    await interaction.editReply({
+      content: `${emojis.confirmed_emoji || '✅'} Filas misto criadas com sucesso no canal <#${canalId}>!`
+    });
   }
-}; 
+};
