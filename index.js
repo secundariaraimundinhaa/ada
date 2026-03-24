@@ -110,5 +110,8 @@ process.on('uncaughtException', (err) => {
     console.error('Uncaught Exception:', err);
 });
 
-// ================= LOGIN =================
+client.on("ready", () => {
+  console.log("🔥 ONLINE:", client.user.tag);
+});
+
 client.login(process.env.TOKEN);
