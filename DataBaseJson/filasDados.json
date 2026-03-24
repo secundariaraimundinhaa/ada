@@ -1,0 +1,2059 @@
+{
+  "exemplo_id_mensagem": {
+    "valor": "2,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "id1",
+      "id2"
+    ],
+    "status": "aberta"
+  },
+  "1378644087426781284": {
+    "valor": "100,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378644088852578345": {
+    "valor": "50,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378644090668978308": {
+    "valor": "20,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378644092333985824": {
+    "valor": "10,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378644094087335978": {
+    "valor": "5,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378644095517458516": {
+    "valor": "2,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378644097732186172": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378778238242783414": {
+    "valor": "100,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378778239849205770": {
+    "valor": "50,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378778241841627188": {
+    "valor": "20,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378778244169465927": {
+    "valor": "10,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378778245561979011": {
+    "valor": "5,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378778247239696434": {
+    "valor": "2,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378778248896446734": {
+    "valor": "1,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783302227591269": {
+    "valor": "100,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783303821168762": {
+    "valor": "50,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783305536897034": {
+    "valor": "20,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783307264819321": {
+    "valor": "10,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783308283904162": {
+    "valor": "5,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783309898846289": {
+    "valor": "2,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783329641566248": {
+    "valor": "1,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783383269671052": {
+    "valor": "100,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783384666378260": {
+    "valor": "50,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783385996234828": {
+    "valor": "20,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783388089188423": {
+    "valor": "10,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783389225582665": {
+    "valor": "5,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783391708876963": {
+    "valor": "2,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783393197719835": {
+    "valor": "1,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783443198152705": {
+    "valor": "100,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783445060419714": {
+    "valor": "50,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783446385688616": {
+    "valor": "20,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783447891312670": {
+    "valor": "10,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783449221042317": {
+    "valor": "5,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783450546573483": {
+    "valor": "2,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378783470582497412": {
+    "valor": "1,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378794411986518176": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "4x4",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "time": "1 emu"
+  },
+  "1378796519922339931": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "4x4",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "3 emu"
+  },
+  "1378796934265045072": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "4x4",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "time": "2 emu"
+  },
+  "1378809960695074944": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "4x4",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "1 emu"
+  },
+  "1378848525735170089": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848527865745518": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848529241473165": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848532403978381": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848534530494576": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848536271126528": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848537986470032": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848638423400489": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848640319230003": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848642005467177": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848644689559664": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848646518407350": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848648779141191": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848650155004045": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848793843335278": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848794828869754": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848796670165035": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848799635538002": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848802831859872": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848804639608842": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378848805792776233": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849139344801863": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849141060272149": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849142440198176": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849144176640050": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849146563465287": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849149520449657": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849150946250783": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849216243437759": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849217891799142": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849220718624849": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849222329110671": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849225680486522": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849227261739108": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849228348063835": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849371092942972": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849372477067445": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849374334877819": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849376239095889": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849377929658479": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849380504703191": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849382711038006": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849538277769296": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849539565293681": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849541293342740": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849548549492860": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849550760022089": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849552291069952": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849553754751127": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849652106854572": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849653998616667": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849655814619368": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849657832079401": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849659384234125": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849660680015924": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849662559322287": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849714673553479": {
+    "valor": "100,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849716372115518": {
+    "valor": "50,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849718259417199": {
+    "valor": "20,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849719555588137": {
+    "valor": "10,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849721246023842": {
+    "valor": "5,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849722898452591": {
+    "valor": "2,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378849724727300176": {
+    "valor": "1,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1378850377180643438": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1350164229508038705",
+    "time": "1 emu"
+  },
+  "1378850864986587166": {
+    "valor": "1,90",
+    "modo": "Nisto",
+    "tipo": "4x4",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "3 emu"
+  },
+  "1378853931106435203": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "1 emu"
+  },
+  "1378857487884750900": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "1 emu"
+  },
+  "1378858355405226124": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "1 emu"
+  },
+  "1378859541894271008": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424"
+  },
+  "1378861550961688627": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424"
+  },
+  "1378862644383060099": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Infinito",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424"
+  },
+  "1378863293476896878": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "1 emu"
+  },
+  "1378863908110074007": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424"
+  },
+  "1378865516780982464": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "1 emu"
+  },
+  "1378866567625834616": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "1 emu"
+  },
+  "1378867577832603729": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424"
+  },
+  "1378868965702635621": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1320163202541031424",
+    "time": "1 emu"
+  },
+  "1378870040014753933": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "time": "1 emu"
+  },
+  "1378873900884168855": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "time": "1 emu"
+  },
+  "1378878444846186587": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "time": "1 emu"
+  },
+  "1379250585915621408": {
+    "valor": "100,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379250588080013402": {
+    "valor": "50,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379250589707403326": {
+    "valor": "20,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379250591125213224": {
+    "valor": "10,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379250592710656210": {
+    "valor": "5,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379250594686173265": {
+    "valor": "2,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379250614332035185": {
+    "valor": "1,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379271319878897804": {
+    "valor": "1,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1320163202541031424"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342"
+  },
+  "1379284157154463794": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284158559289476": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284160354717796": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284161663074325": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284163097792513": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284164670652466": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284184668967007": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284290965344276": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284292605313055": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284293787848825": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284295419695176": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284297462321203": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284298816950383": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284318127390830": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284382879191113": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284384376684644": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284385886507049": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284387639595028": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284388826579025": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284390575607860": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284410234573002": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284448616382569": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284450357153983": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284451963437196": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284453112811632": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284455415615562": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284462851981342": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284465569890344": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284498042196070": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284500529418311": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284501754282005": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284502920167545": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284504279253095": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284505776623637": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379284525657362484": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379288921678155776": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379288923217592482": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379288924622688378": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379288926120054826": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379288927554244710": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379288929169051770": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379288948899319858": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289013671952384": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289015299346595": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289016767090878": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289018356863006": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289020974108672": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289023469719633": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289025596358746": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289070269894731": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289072220110899": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289075416043542": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289077014204658": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289079153426472": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289081439322192": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289082835898499": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289110211989585": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289112267456602": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289114041389128": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289115115262154": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289116897968191": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289118642671658": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289120395759717": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289158983614525": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289160774582322": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289161919496203": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289163781767231": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289165241385030": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289166583693382": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379289185600671866": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379290321682169910": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342"
+  },
+  "1379293129735409829": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342"
+  },
+  "1379293915605241967": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342"
+  },
+  "1379296965426417746": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342"
+  },
+  "1379297464229560410": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342"
+  },
+  "1379298886685818954": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342"
+  },
+  "1379300902346690632": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "selectedWinner": "1354213670187438220"
+  },
+  "1379301647293087776": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "selectedWinner": "1354213670187438220"
+  },
+  "1379302108028997704": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "selectedWinner": "1354213670187438220"
+  },
+  "1379304178136125520": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "selectedWinner": "571553695209357342"
+  },
+  "1379304676213788702": {
+    "valor": "100,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304677694378105": {
+    "valor": "50,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304680349241447": {
+    "valor": "20,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304681788149812": {
+    "valor": "10,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304683343974481": {
+    "valor": "5,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304684761907200": {
+    "valor": "2,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304686401622046": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304719410925681": {
+    "valor": "100,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304721268998215": {
+    "valor": "50,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304722388881540": {
+    "valor": "20,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304723894763533": {
+    "valor": "10,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304725870022658": {
+    "valor": "5,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304727891808436": {
+    "valor": "2,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304747365830839": {
+    "valor": "1,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304773303402547": {
+    "valor": "100,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304774599704686": {
+    "valor": "50,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304776147140781": {
+    "valor": "20,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304777615278080": {
+    "valor": "10,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304778991009823": {
+    "valor": "5,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304780580524063": {
+    "valor": "2,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379304799974985830": {
+    "valor": "1,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379306185353592932": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342"
+  },
+  "1379308068139171860": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "selectedWinner": "1354213670187438220"
+  },
+  "1379309164169396306": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "selectedWinner": "571553695209357342"
+  },
+  "1379310134903177367": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342",
+    "selectedWinner": "1354213670187438220"
+  },
+  "1379310248224882738": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "571553695209357342",
+      "1354213670187438220"
+    ],
+    "status": "iniciada",
+    "id_mediador": "571553695209357342"
+  },
+  "1379336209972596866": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336211201527868": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336212426264690": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336214087467071": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336215735566366": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336217052844192": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336237558796379": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336328210288663": {
+    "valor": "100,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336329950924863": {
+    "valor": "50,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336331154690128": {
+    "valor": "20,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336332438016022": {
+    "valor": "10,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336334308806656": {
+    "valor": "5,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336335583613019": {
+    "valor": "2,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336355569602691": {
+    "valor": "1,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336510041624648": {
+    "valor": "100,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336511811616768": {
+    "valor": "50,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336513288143004": {
+    "valor": "20,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336514814738453": {
+    "valor": "10,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336516257448037": {
+    "valor": "5,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336518178705458": {
+    "valor": "2,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1379336538177142834": {
+    "valor": "1,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793210780356750": {
+    "valor": "100,90",
+    "modo": "1v1",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793212898738245": {
+    "valor": "50,90",
+    "modo": "1v1",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793214765207725": {
+    "valor": "20,90",
+    "modo": "1v1",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793217067618365": {
+    "valor": "10,90",
+    "modo": "1v1",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793218821099690": {
+    "valor": "5,90",
+    "modo": "1v1",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793221316575314": {
+    "valor": "2,90",
+    "modo": "1v1",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793223828963368": {
+    "valor": "1,90",
+    "modo": "1v1",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793742182027285": {
+    "valor": "100,90",
+    "modo": "te",
+    "formato": "cu",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793744522317926": {
+    "valor": "50,90",
+    "modo": "te",
+    "formato": "cu",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793746187714560": {
+    "valor": "20,90",
+    "modo": "te",
+    "formato": "cu",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793747773034750": {
+    "valor": "10,90",
+    "modo": "te",
+    "formato": "cu",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793749891158057": {
+    "valor": "5,90",
+    "modo": "te",
+    "formato": "cu",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793751443177645": {
+    "valor": "2,90",
+    "modo": "te",
+    "formato": "cu",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1485793753837867198": {
+    "valor": "1,90",
+    "modo": "te",
+    "formato": "cu",
+    "jogadores": [],
+    "status": "aberta"
+  }
+}

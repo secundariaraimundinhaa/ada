@@ -1,0 +1,17 @@
+{
+  "titulo": "Suporte sei la oque vc que aqui",
+  "descricao": "Abra um ticket para receber atendimento personalizado.",
+  "embed": true,
+  "url_banner": "https://seubanner.com/banner.png",
+  "url_thumbnail": "https://seuthumbnail.com/thumb.png",
+  "modo": "buttons",
+  "funcoes": [
+    {
+      "label": "teste",
+      "id": "teste",
+      "style": "Success",
+      "description": "teste",
+      "emoji": ""
+    }
+  ]
+}
